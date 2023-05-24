@@ -19,6 +19,8 @@ github.com/dop251/goja_nodejs v0.0.0-20171011081505-adff31b136e6 h1:RrkoB0pT3gnj
 github.com/dop251/goja_nodejs v0.0.0-20171011081505-adff31b136e6/go.mod h1:hn7BA7c8pLvoGndExHudxTDKZ84Pyvv+90pbBjbTz0Y=
 github.com/elastic/beats/v7 v7.17.6 h1:PjqdB9p0T0TEHQPUU4wkA4esKnDAZI5ubUTBB0752Lw=
 github.com/elastic/beats/v7 v7.17.6/go.mod h1:8TcFb4k1WT4bxLyfrQlDVTCBIqNZMJPq3mf51pv9l84=
+github.com/elastic/beats/v7 v7.17.10 h1:L4GfKkeAK2MXAMhTPgDeob1RaYbrY8qHwBq+m/3dQLE=
+github.com/elastic/beats/v7 v7.17.10/go.mod h1:XyGO3TrCqoNDjwvILzfzVgbxRzratEMVX0L/HIKJnqE=
 github.com/elastic/elastic-agent-client/v7 v7.0.0-20220915231534-3e014f7c0e83 h1:vYpMoGkWOf9Yl3hBahn0WC2G4NaVOJnkMGBuCOpHgPE=
 github.com/elastic/elastic-agent-client/v7 v7.0.0-20220915231534-3e014f7c0e83/go.mod h1:FEXUbFMfaV62S0CtJgD+FFHGY7+4o4fXkDicyONPSH8=
 github.com/elastic/go-licenser v0.3.1/go.mod h1:D8eNQk70FOCVBl3smCGQt/lv7meBeQno2eI1S5apiHQ=
